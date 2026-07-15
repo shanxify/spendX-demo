@@ -38,11 +38,7 @@ Users can upload transaction statement PDFs from **PhonePe**, **Google Pay**, or
 - ☁️ Cloud-based data storage
 - 📱 Responsive user interface
 
----
 
-## 📸 Screenshots
-
-> Add your screenshots here.
 
 ---
 
