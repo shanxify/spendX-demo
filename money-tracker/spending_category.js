@@ -80,6 +80,7 @@ manager.viewCategories();
 
 manager.updateCategory("Travel", "Transportation");
 
+
 manager.viewCategories();
 
 manager.deleteCategory("Shopping");
