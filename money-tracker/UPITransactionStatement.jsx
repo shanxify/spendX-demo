@@ -13,7 +13,7 @@ const UPITransactionStatement = () => {
       </p>
 
       <div className="mt-5 space-y-2">
-        <div>✅ Supported Format : PDF PDF PDF </div>
+        <div>✅ Supported Format : PDF Files only  </div>
         <div>✅ Maximum File Size : 10 MB</div>
         <div>✅ Auto Transaction Detection</div>
         <div>✅ Secure File Processing</div>
