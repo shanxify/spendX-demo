@@ -1,11 +1,11 @@
 // Expense Data
 const expenses = [
-    { category: "Food", amount: 250 },
+    { category: "Food", amount: 150 },
     { category: "Transport", amount: 120 },
     { category: "Shopping", amount: 350 },
     { category: "Bills", amount: 400 },
     { category: "Entertainment", amount: 280 },
-    { category: "Food", amount: 250 },
+    { category: "Food", amount: 350 },
     { category: "Transport", amount: 100 }
 ];
 
