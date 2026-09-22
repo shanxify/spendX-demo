@@ -5,7 +5,7 @@ const expenses = [
     { category: "Shopping", amount: 350 },
     { category: "Bills", amount: 400 },
     { category: "Entertainment", amount: 280 },
-    { category: "Food", amount: 350 },
+    { category: "Food", amount: 450 },
     { category: "Transport", amount: 100 }
 ];
 
