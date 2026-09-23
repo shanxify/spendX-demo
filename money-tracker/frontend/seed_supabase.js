@@ -7,7 +7,7 @@ const supabase = createClient(
 );
 
 const defaultCategories = [
-  { id: 'cat-food', name: 'Food & Dining', icon: '🍔', color: '#FF6B6B' },
+  { id: 'cat-food', name: 'Foodie & Dining', icon: '🍔', color: '#FF6B6B' },
   { id: 'cat-groceries', name: 'Groceries', icon: '🛒', color: '#4ECDC4' },
   { id: 'cat-transport', name: 'Transport', icon: '🚗', color: '#45B7D1' },
   { id: 'cat-shopping', name: 'Shopping', icon: '🛍️', color: '#96CEB4' },
