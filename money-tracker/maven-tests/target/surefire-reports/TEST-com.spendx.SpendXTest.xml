@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.spendx.SpendXTest" time="0.064" tests="1" errors="0" skipped="0" failures="0" flakes="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.spendx.SpendXTest" time="0.125" tests="1" errors="0" skipped="0" failures="0" flakes="0">
   <properties>
     <property name="java.specification.version" value="26"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Users\ruchi\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\bin"/>
-    <property name="sun.java.command" value="C:\Users\ruchi\AppData\Local\Temp\surefire224710430407757451\surefirebooter-20261007233347385_3.jar C:\Users\ruchi\AppData\Local\Temp\surefire224710430407757451 2026-10-07T23-33-44_019-jvmRun1 surefire-20261007233347385_1tmp surefire_0-20261007233347385_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\ruchi\AppData\Local\Temp\surefire9060682569000807170\surefirebooter-20261008082553347_3.jar C:\Users\ruchi\AppData\Local\Temp\surefire9060682569000807170 2026-10-08T08-25-52_764-jvmRun1 surefire-20261008082553347_1tmp surefire_0-20261008082553347_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\ruchi\spendX-demo\money-tracker\maven-tests\target\test-classes;C:\Users\ruchi\spendX-demo\money-tracker\maven-tests\target\classes;C:\Users\ruchi\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\ruchi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -29,7 +29,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\ruchi\AppData\Local\Temp\surefire224710430407757451\surefirebooter-20261007233347385_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ruchi\AppData\Local\Temp\surefire9060682569000807170\surefirebooter-20261008082553347_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="26.0.2.1+1"/>
@@ -59,5 +59,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="70.0"/>
   </properties>
-  <testcase name="testExpenseCalculation" classname="com.spendx.SpendXTest" time="0.041"/>
+  <testcase name="testExpenseCalculation" classname="com.spendx.SpendXTest" time="0.083"/>
 </testsuite>
