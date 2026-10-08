@@ -10,7 +10,7 @@ public class SpendXTest {
         double income = 10000;
         double expense = 3500;
 
-        double balance = income - expense;
+        double balance = income + expense;
 
         assertEquals(6500, balance, 0.01);
     }
